@@ -1,1 +1,1 @@
-# -lothes_-_-_-_-NN
+# Clothes_type_prediction_with_CNN
